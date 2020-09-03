@@ -9,3 +9,8 @@ To reach me, you may send me a DM on discord `DaijobuDes#0870` or on Twitter fou
 
 Currently learning `C`, `C++`, `Python`, `PHP` and `Java`.
 
+
+
+[![DaijobuDes' github stats](https://github-readme-stats.vercel.app/api?username=DaijobuDes)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaijobuDes&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
