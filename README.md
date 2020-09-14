@@ -11,6 +11,6 @@ Currently learning `C`, `C++`, `Python`, `PHP` and `Java`.
 
 
 
-![DaijobuDes' github stats](https://github-readme-stats.vercel.app/api?username=DaijobuDes)
+![DaijobuDes' github stats](https://github-readme-stats.vercel.app/api?username=DaijobuDes&langs_count=10)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaijobuDes&layout=compact&hide=html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaijobuDes&layout=compact&hide=html&langs_count=10)
