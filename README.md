@@ -7,7 +7,7 @@ To reach me, you may send me a DM on discord `DaijobuDes#0870`.
 
 ### Programming Languages
 
-Currently learning `C`, `C++`, `Python`, `PHP` and `Java`.
+Currently learning `C`, `C#`, `C++`, `Python`, `PHP` and `Java`.
 
 
 
